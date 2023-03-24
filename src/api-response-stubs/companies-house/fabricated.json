@@ -1,0 +1,1152 @@
+{
+    "69364855": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "transition wireless communities",
+        "company_number": 69364855,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Williamson Row",
+            "address_line_2": "16565 Boyle Flat",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "R8 3LE",
+            "premises": "",
+            "region": "Alabama"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "43406086": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "matrix plug-and-play synergies",
+        "company_number": 43406086,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Brittny Hills",
+            "address_line_2": "8882 Bud Tunnel",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "NA6 4YJ",
+            "premises": "",
+            "region": "Texas"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "52350627": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "target customized platforms",
+        "company_number": 52350627,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Spencer Neck",
+            "address_line_2": "50596 Vandervort Parkways",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "W7 9JB",
+            "premises": "",
+            "region": "Oklahoma"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "32949308": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "reinvent front-end e-commerce",
+        "company_number": 32949308,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Dach Harbor",
+            "address_line_2": "819 Awilda Extension",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "W7D 2EU",
+            "premises": "",
+            "region": "Rhode Island"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "66971971": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "incentivize customized users",
+        "company_number": 66971971,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Rau Island",
+            "address_line_2": "115 Shira Mount",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "SB46 9NE",
+            "premises": "",
+            "region": "Mississippi"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "37257040": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "exploit next-generation architectures",
+        "company_number": 37257040,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Demetrius Island",
+            "address_line_2": "83890 Roob Stream",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "I5 3NW",
+            "premises": "",
+            "region": "New York"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "58118076": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "generate ubiquitous web-readiness",
+        "company_number": 58118076,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Pfeffer Squares",
+            "address_line_2": "68586 Kovacek Ports",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "A1G 1WF",
+            "premises": "",
+            "region": "Missouri"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "95019681": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "transition viral e-commerce",
+        "company_number": 95019681,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Ernser Alley",
+            "address_line_2": "442 Alda Bridge",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "Z8 9AB",
+            "premises": "",
+            "region": "Kansas"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "36395831": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "iterate B2C solutions",
+        "company_number": 36395831,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Moses Lane",
+            "address_line_2": "3533 Consuelo Extension",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "DQ6 3AD",
+            "premises": "",
+            "region": "Montana"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    },
+    "88904202": {
+        "accounts": {
+            "accounting_reference_date": {
+                "day": "integer",
+                "month": "integer"
+            },
+            "last_accounts": {
+                "made_up_to": "date",
+                "type": {}
+            },
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "annual_return": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "branch_company_details": {
+            "business_activity": "string",
+            "parent_company_name": "string",
+            "parent_company_number": "string"
+        },
+        "can_file": "boolean",
+        "company_name": "reintermediate enterprise deliverables",
+        "company_number": 88904202,
+        "company_status": "string",
+        "company_status_detail": "string",
+        "confirmation_statement": {
+            "last_made_up_to": "date",
+            "next_due": "date",
+            "next_made_up_to": "date",
+            "overdue": "boolean"
+        },
+        "date_of_cessation": "date",
+        "date_of_creation": "date",
+        "etag": "string",
+        "foreign_company_details": {
+            "accounting_requirement": {
+                "foreign_account_type": "string",
+                "terms_of_account_publication": "string"
+            },
+            "accounts": {
+                "account_period_from:": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "account_period_to": {
+                    "day": "integer",
+                    "month": "integer"
+                },
+                "must_file_within": {
+                    "months": "integer"
+                }
+            },
+            "business_activity": "string",
+            "company_type": "string",
+            "governed_by": "string",
+            "is_a_credit_finance_institution": "boolean",
+            "originating_registry": {
+                "country": "string",
+                "name": "string"
+            },
+            "registration_number": "string"
+        },
+        "has_been_liquidated": "boolean",
+        "has_charges": "boolean",
+        "has_insolvency_history": "boolean",
+        "is_community_interest_company": "boolean",
+        "jurisdiction": "string",
+        "last_full_members_list_date": "date",
+        "links": {
+            "persons_with_significant_control": "string",
+            "persons_with_significant_control_statements": "string",
+            "registers": "string",
+            "self": "string"
+        },
+        "previous_company_names": [
+            {
+                "ceased_on": "date",
+                "effective_from": "date",
+                "name": "string"
+            }
+        ],
+        "registered_office_address": {
+            "address_line_1": "Hartmann Pines",
+            "address_line_2": "2213 Wisozk Groves",
+            "care_of": "string",
+            "country": "UK",
+            "locality": "Cour",
+            "po_box": "",
+            "postal_code": "W3 4GL",
+            "premises": "",
+            "region": "Montana"
+        },
+        "registered_office_is_in_dispute": "boolean",
+        "service_address": {
+            "address_line_1": "string",
+            "address_line_2": "string",
+            "care_of": "string",
+            "country": "string",
+            "locality": "string",
+            "po_box": "string",
+            "postal_code": "string",
+            "region": "string"
+        },
+        "sic_codes": [
+            "string"
+        ],
+        "super_secure_managing_officer_count": "integer",
+        "type": "string",
+        "undeliverable_registered_office_address": "boolean"
+    }
+}
