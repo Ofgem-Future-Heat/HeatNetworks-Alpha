@@ -1,3 +1,21 @@
+# Goal of the project
+
+The project was an Alpha to explore the practicalities and technical requirements of a digital service for Heat Network regulation.
+
+The technical focus in the alpha phase project was to gain an understanding of the business needs and policies to create a conceptual solution design for a digital solution using a risk-driven approach that supports Ofgem in the regulation of the Heat Network Sector.
+
+The conceptual solution design was produced using an understanding of the processes associated with the service, how users will interact with a digital solution and the data that is required.
+
+To maximise the opportunity for a successful delivery of the service with a digital solution; design assumptions were tested with the goal of identified risks being mitigated, and user and business needs being better understood.
+
+To support the development of the conceptual solution design the following needed to be understood:
+
+High-level processes associated with the regulatory activities
+How a digital solution could support the regulatory processes
+What data will be managed by the system and how that would be processed
+Constraints on the digital solution
+Conceptual solution and architecture for the digital solution
+
 # Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
